@@ -1,0 +1,79 @@
+body{
+  background-color: lightgray;
+}
+.teja{
+  background-color: green;
+}
+.header{
+  background-color: skyblue;
+}
+h1{
+  color: 	#9400D3;
+}
+#Education{
+  color: 	#4B0082;
+}
+#Experience{
+  color: #0000FF;
+}
+#Skills{
+  color: DARKGREEN;
+}
+#adskills{
+  color: #4B0082;
+}
+#certificates{
+  color: #FF7F00;
+}
+#contact{
+  color: 	#FF0000;
+}
+#contact h3{
+  border-radius: 90px;
+  background-color:	darkred;
+  color: white;
+}
+
+#certificates h3{
+  border-radius: 90px;
+  background-color: #9400D3;
+  color: white;
+}
+
+#adskills h3{
+  border-radius: 90px;
+  background-color:#FFFF00  ;
+  color: BLACK;;
+}
+
+#Skills h3{
+  border-radius: 90px;
+  background-color:#0000FF;
+  color: white;
+}
+
+#Experience h3{
+  border-radius: 90px;
+  background-color: #00FF00;
+  color: BLACK;
+}
+
+#Education h3{
+  border-radius: 90px;
+  background-color: #FF7F00;
+  color: white;
+}
+
+#lang h3{
+  border-radius: 90px;
+  background-color: lightpink;
+  color: black;
+}
+#Hobbies h3{
+  border-radius: 90px;
+  background-color: cyan;
+  color: black;
+}
+.contact-up{
+background-color:pink;width:290px;box-shadow:4px 4px 12px 3px;
+           }
